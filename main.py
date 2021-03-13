@@ -1,3 +1,1 @@
-# Комментарий
-# Ещё комментарий
-print('Hello world')
+print("hello world")
