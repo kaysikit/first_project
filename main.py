@@ -1,1 +1,3 @@
+# Комментарий
+
 print('Hello world')
